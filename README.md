@@ -4,8 +4,8 @@
 
 ### Where to find me 🔍
 
-[![Linkedin: asanabrial](https://img.shields.io/badge/-asanabrial-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexis-sanabria-lopez/)](https://www.linkedin.com/in/alexis-sanabria-lopez/)
-[![Github: asanabrialopez](https://img.shields.io/badge/-asanabrialopez-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/asanabrialopez)](https://github.com/asanabrialopez)
+[![Linkedin: asanabrial](https://img.shields.io/badge/-asanabrial-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/asanabrial/)](https://www.linkedin.com/in/asanabrial/)
+[![Github: asanabrial](https://img.shields.io/badge/-asanabrial-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/asanabrial)](https://github.com/asanabrial)
 [![Opensource: asanabrial](https://img.shields.io/badge/open_source-❤️-green?style=flat-square)](https://github.com/asanabrialopez)
 <img align='right' src="img/toy_story_refactoring.png" width="320">
 
